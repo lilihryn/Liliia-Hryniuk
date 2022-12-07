@@ -23,7 +23,7 @@ My previous job experience is in the hospitality industry, warehouses and conten
 
 
 ### Tools 
-* 
+
 * Chrome DevTools - for testing and to improve bug reports
 * GitHub
 * MySQL - relational database management system
@@ -44,6 +44,11 @@ My previous job experience is in the hospitality industry, warehouses and conten
 
 **Test cases**
 * Test cases for https://scouts.futbolkolektyw.pl/en/ site [LINK to test cases](https://drive.google.com/drive/folders/11jEwVFXEcGZzTHmKLvG7vx48bGX_SbAz?usp=share_link)
+* Challenge Dare It [Link on GIT](https://github.com/lilihryn/challenge_portfolio_pati)
+* Robotframework on [Link on GIT](https://github.com/lilihryn/challenge_robotframework)
+* Springframework on [Link on GIT](https://github.com/lilihryn/SpringFrameworkProject)
+* Java Basics on [Link on GIT](https://github.com/lilihryn/basic-exercises)
+
 
 **HTML/CSS**
 * I have participated in 6-day Marathon with HTML/CSS conducted by GoIT. Each day I have recived tasks which helped me to build my web page with CV from scratch. 
