@@ -2,13 +2,12 @@
 
 ### 👋 About me
 
- Hi there, I'm Liliia Hryniuk - a motivated and adaptable professional seeking to leverage my strong communication and problem-solving skills in a new role as a  penetration tester, or QA tester.
-
-📚 Recently completed courses in Java programming, penetration testing, and QA testing, and eager to apply my new knowledge and skills to a challenging and rewarding position in the tech industry.
+ Hi there, I'm Liliia Hryniuk - a motivated and adaptable professional seeking to leverage my strong communication and problem-solving skills.
+📚 Recently completed courses in Java programming, penetration testing, and QA testing, and I am eager to apply my new knowledge and skills to a challenging and rewarding position in the tech industry.
 
 ### 💼 My experience
 
-I have experience working as a Content Moderator at Conectys Sp ZOO, where I reviewed and moderated online content to ensure that it complied with company policies and community standards. I evaluated user-generated content for appropriateness, quality, and relevance and removed or flagged inappropriate, offensive, or spammy content. I maintained accurate records of moderation activity and provided reports as needed, all while working collaboratively with other team members to ensure a consistent and high-quality user experience.
+I have experience working as a Content Moderator at Conectys Sp ZOO, where I reviewed and moderated online content to ensure it complied with company policies and community standards. I evaluated user-generated content for appropriateness, quality, and relevance and removed or flagged inappropriate, offensive, or spammy content. I maintained accurate records of moderation activity and provided reports as needed, all while working collaboratively with other team members to ensure a consistent and high-quality user experience.
 
 In addition, I worked as a Warehouse Team Member at Volkswagen Group Polska and Amazon Fulfilment Polska. In these roles, I gained valuable experience collaborating with other team members to meet shipment timetables and reduce errors. I selected, packed, and promptly shipped customer orders and examined products for damage, passing information to the Quality Team. I contributed to team efforts by accomplishing related results as needed and provided quality service by following organization standards.
 
